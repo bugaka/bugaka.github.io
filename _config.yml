@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Customized theme 
+subtitle: 
 email: vjovin@gmail.com
-description: I am a writer
+description: 
 baseurl:  # the subpath of your site, e.g. /blog
 url: "https://www.vukjovin.com/"
 author: Vuk Jovin
