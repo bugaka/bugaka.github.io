@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 
 description: null
-image: assets/images/typewriter.jpg
+image: /assets/images/typewriter.jpg
 author: null
 show_tile: false
 ---
