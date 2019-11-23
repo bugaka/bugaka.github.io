@@ -1,8 +1,7 @@
 ---
 layout: allposts
 title: Blog posts
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: 
 nav-menu: true
 ---
 
