@@ -2,7 +2,7 @@
 layout: page
 title: About me
 nav-menu: true
-image: assets/images/Blog.jpg
+image: /assets/images/lookatme.jpg
 ---
 
 <!-- Main -->
