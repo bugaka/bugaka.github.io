@@ -6,11 +6,14 @@ nav-menu: true
 image: assets/images/empati2.jpg
 ---
 
--Content creation
--Content management 
--Landing pages 
--Transcription 
--Blogging service 
--Internet research
+<textarea rows="6">
+
+
+Content creation
+Content management 
+Landing pages 
+Transcription 
+Blogging service 
+Internet research
 
 
