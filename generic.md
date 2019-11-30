@@ -12,8 +12,7 @@ image: assets/images/empati2.jpg
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
+	        <h2>Sed amet aliquam</h2>
 		</header>
 		<p>
       
