@@ -8,7 +8,7 @@ image: assets/images/empati2.jpg
 
 <body>
 
-<h2>What can I do for you</h2>
+<h2>What can I do for you?</h2>
 
 <ul>
   <li>Content creation</li>
