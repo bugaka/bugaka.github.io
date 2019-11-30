@@ -6,14 +6,25 @@ nav-menu: true
 image: assets/images/empati2.jpg
 ---
 
-<textarea rows="6" cols="50">
+<!-- Main -->
+<div id="main">
 
-
-Content creation
-Content management 
-Landing pages 
-Transcription 
-Blogging service 
-Internet research
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Sed amet aliquam</h2>
+		</header>
+		<p>
+      
+    Content creation
+    Content management 
+    Landing pages 
+    Transcription 
+    Blogging service 
+    Internet research
+   </p>
+	</div>
+</section>
 
 
