@@ -11,10 +11,13 @@ image: assets/images/empati2.jpg
      <header>
        <h2>What can I do for you?</h2>
      </header>
-     <ul type = "circle";font-size=30px>
-       <li style "font-size:30px">Coffee</li>
-       <li>Tea</li>
-       <li>Milk</li>
+     <ul type = "circle">
+       <li>Content creation</li>
+       <li>Content management</li>
+       <li>Landing pages</li>
+       <li>Transcription</li>
+       <li>Blogging service</li>
+       <li>Internet research</li>
      </ul>
 </div>
 
