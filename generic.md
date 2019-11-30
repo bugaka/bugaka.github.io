@@ -13,7 +13,7 @@ image: assets/images/empati2.jpg
 <section id="one">
 	<div class="inner">
 	     <header>
-	     <h2>Sed amet aliquam</h2>
+	     <h2>What can I do for you?/h2>
 	     </header>
 	      
                <p>Content creation</p>
