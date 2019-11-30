@@ -17,7 +17,7 @@ image: /assets/images/lookatme.jpg
 
 <div class="row">
 <div class="6u 12u$(small)">
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>After I got my media and communications degree, I worked as a translator and copywriter in Serbia. At one point, I took part in the organization of hospitality and communication for an international creative tech festival that got me exposed to algorithmic (generative) art and deep learning, which gave me a chance to meet many tech-savvy creative professionals that challenged my idea of what was possible. As I was getting increasingly reliant on spell checking and grammar tools that used machine learning methods myself, I became interested in the future of content creation and the nature of work in this new environment. I am also interested in the evolving world of business intelligence and data ethics, as well as in the effects of technology on human psychology (in particular, the attention economy). I am an avid researcher when it comes to business and tech, and I will explore almost any related subject.</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<span class="image center">
