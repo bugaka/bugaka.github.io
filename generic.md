@@ -15,13 +15,14 @@ image: assets/images/empati2.jpg
 	     <header>
 	     <h2>What can I do for you?/h2>
 	     </header>
-	      
-               <p>Content creation</p>
-               <p>Content management</p> 
-               <p>Landing pages</p> 
-               <p>Transcription</p>
-               <p>Blogging service</p>
-               <p>Internet research</p>
+	      <ul>
+               <li>Coffee</li>
+               <li>Tea</li>
+               <li>Milk</li>
+	       <li>Milk</li>
+	       <li>Milk</li>
+	       <li>Milk</li>
+              </ul>  
 
 </div>
 </section>
