@@ -6,7 +6,7 @@ nav-menu: true
 image: assets/images/empati2.jpg
 ---
 
-<textarea rows="6">
+<textarea rows="6" cols="50">
 
 
 Content creation
