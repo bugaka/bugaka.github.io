@@ -6,11 +6,11 @@ nav-menu: true
 image: assets/images/empati2.jpg
 ---
 
--Transcription 
--Landing pages 
--Blogging service 
 -Content creation
 -Content management 
+-Landing pages 
+-Transcription 
+-Blogging service 
 -Internet research
 
 
