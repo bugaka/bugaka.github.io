@@ -12,18 +12,19 @@ image: assets/images/empati2.jpg
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	        <h2>Sed amet aliquam</h2>
-		</header>
-		<p>
-      
-    Content creation
-    Content management 
-    Landing pages 
-    Transcription 
-    Blogging service 
-    Internet research
-   </p>
-	</div>
+	     <header>
+	     <h2>Sed amet aliquam</h2>
+	     </header>
+	      <textarea rows="4" cols="50">
+                Content creation
+                Content management 
+                Landing pages 
+                Transcription 
+                Blogging service 
+                Internet research
+              </textarea>
+
+</div>
 </section>
 
 
