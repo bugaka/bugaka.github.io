@@ -15,14 +15,13 @@ image: assets/images/empati2.jpg
 	     <header>
 	     <h2>Sed amet aliquam</h2>
 	     </header>
-	      <textarea rows="4" cols="50">
-                Content creation
-                Content management 
-                Landing pages 
-                Transcription 
-                Blogging service 
-                Internet research
-              </textarea>
+	      
+               <p>Content creation</p>
+               <p>Content management</p> 
+               <p>Landing pages</p> 
+               <p>Transcription</p>
+               <p>Blogging service</p>
+               <p>Internet research</p>
 
 </div>
 </section>
