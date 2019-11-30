@@ -6,21 +6,18 @@ nav-menu: true
 image: assets/images/empati2.jpg
 ---
 
-<!-- Main -->
-<div id="main">
-	<header>
-	 <h2>What can I do for you?/h2>
-	 </header>
-	   <ul>
-            <li>Coffee</li>
-            <li>Tea</li>
-            <li>Milk</li>
-	    <li>Milk</li>
-	    <li>Milk</li>
-	    <li>Milk</li>
-           </ul>  
+<body>
 
-</div>
-</section>
+<h2>An Unordered HTML List</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+</body>
+</html>
+
 
 
