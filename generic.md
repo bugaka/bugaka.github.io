@@ -12,7 +12,7 @@ image: assets/images/empati2.jpg
        <h2>What can I do for you?</h2>
      </header>
      <ul type = "circle";font-size=30px>
-       <li>Coffee</li>
+       <li style "font-size:30px">Coffee</li>
        <li>Tea</li>
        <li>Milk</li>
      </ul>
