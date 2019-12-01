@@ -9,7 +9,7 @@ image: assets/images/empati2.jpg
 <div id="main">
 <div class="inner">
      <header>
-       <h2>What can I do for you?</h2>
+       <h1>What can I do for you?</h1>
      </header>
      <ul type = "circle">
        <li>Content creation</li>
