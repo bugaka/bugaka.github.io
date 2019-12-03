@@ -1,6 +1,6 @@
 ---
-layout: page
-title: What can I do for you?
+layout: allposts
+title: Blog posts
 description: 
 nav-menu: true
 image: assets/images/empati2.jpg
