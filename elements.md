@@ -27,10 +27,11 @@ image: /assets/images/lookatme.jpg
  <ul type = "circle">
   <li>Content creation</li>
   <li>Content management</li>
+  <li>SEO</li>
   <li>Landing pages</li>
   <li>Transcription</li>
   <li>Blogging service</li>
-       <li>Internet research</li>
+  <li>Internet research</li>
   </ul>
 </div>
 	<div class="6u 12u$(small)">
