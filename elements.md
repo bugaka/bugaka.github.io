@@ -22,7 +22,7 @@ image: /assets/images/lookatme.jpg
 I am also interested in the evolving world of business intelligence and data ethics, as well as the effects of technology on human psychology. I am an avid researcher, and I will explore almost any subject related to my interests.</p>
 
    <header>
-       <h1>What can I do for you?</h1>
+       <h3>What can I do for you?</h3>
      </header>
      <ul type = "circle">
        <li>Content creation</li>
