@@ -17,9 +17,9 @@ image: /assets/images/lookatme.jpg
 
 <div class="row">
 <div class="6u 12u$(small)">
-		<p>After I got my media and communications degree, I worked as a translator and copywriter in Serbia. At one point, I took part in the organization of hospitality and communication for an international creative tech festival. It got me exposed to the innovative use of technology and gave me a chance to meet tech-savvy creative professionals that challenged my idea of what was possible. The experience shaped my interest in the future of content, in particular, in the role of natural language in a digital environment. 
+		<p>After I got my media and communications degree, I worked as a translator and copywriter in Serbia. At one point, I took part in the organization of hospitality and communication for an international creative tech festival. It got me exposed to the innovative use of technology and gave me a chance to meet tech-savvy creative professionals that challenged my idea of what was possible. The experience shaped my interest in the future of content, in particular, in the role of natural language in a digital environment.</p> 
 
-I am also interested in the evolving world of business intelligence and data ethics, as well as the effects of technology on human psychology. I am an avid researcher, and I will explore almost any subject related to my interests.</p>
+<p>I am also interested in the evolving world of business intelligence and data ethics, as well as the effects of technology on human psychology. I am an avid researcher, and I will explore almost any subject related to my interests.</p>
 
    <header>
        <h3>What can I do for you?</h3>
