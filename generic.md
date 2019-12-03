@@ -3,7 +3,7 @@ layout: allposts
 title: Blog posts
 description: 
 nav-menu: true
-image: assets/images/empati2.jpg
+image: assets/images/Blog.jpg
 ---
 <!-- Main -->
 <div id="main">
