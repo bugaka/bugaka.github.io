@@ -37,7 +37,7 @@ image: /assets/images/lookatme.jpg
 	
 </div>
 	<div class="6u 12u$(small)">
-		<span class="image center">
+		<span class="image right">
             <img src="/assets/images/aboutme.jpg" alt="Aboutme">
         </span>
     </div>
