@@ -25,13 +25,14 @@ image: /assets/images/lookatme.jpg
  <h3>What can I do for you?</h3>
 </header>
  <ul type = "circle">
-  <li>Content creation</li>
-  <li>Content management</li>
-  <li>SEO</li>
-  <li>Landing pages</li>
-  <li>Transcription</li>
-  <li>Blogging service</li>
-  <li>Internet research</li>
+   <li>Content creation</li>
+   <li>Content stragegy</li>
+   <li>SEO copywriting</li>   
+   <li>Landing pages</li>
+   <li>Customer experience</li>
+   <li>Press release writing</li>   
+   <li>Blogging service</li>
+   <li>Internet research</li>
   </ul>
 </div>
 	<div class="6u 12u$(small)">
@@ -41,4 +42,3 @@ image: /assets/images/lookatme.jpg
     </div>
 </div>
 
-</div>
