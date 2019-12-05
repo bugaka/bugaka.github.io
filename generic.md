@@ -13,9 +13,11 @@ image: assets/images/Blog.jpg
      </header>
      <ul type = "circle">
        <li>Content creation</li>
-       <li>Content management</li>
+       <li>Content stragegy</li>
+       <li>SEO copywriting</li>   
        <li>Landing pages</li>
-       <li>Transcription</li>
+       <li>Customer experience</li>
+       <li>Press release writing</li>   
        <li>Blogging service</li>
        <li>Internet research</li>
      </ul>
