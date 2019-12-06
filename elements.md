@@ -25,7 +25,7 @@ image: /assets/images/lookatme.jpg
  <ul type = "circle">
    <li>Content creation</li>
    <li>Content strategy</li>
-   <li>SEO copywriting</li>   
+   <li>SEO research and copywriting</li>   
    <li>Landing pages</li>
    <li>Customer experience</li>
    <li>Press release writing</li>   
