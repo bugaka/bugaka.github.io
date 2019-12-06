@@ -17,7 +17,7 @@ image: /assets/images/lookatme.jpg
 
 <div class="row">
 <div class="6u 12u$(small)">
-		<p>After I got my media and communications degree, I worked as a translator and copywriter in Serbia. At one point, I took part in the organization of hospitality and communication for an international creative tech festival. It got me exposed to the innovative use of technology and gave me a chance to meet tech-savvy creative professionals that challenged my idea of what was possible. The experience shaped my interest in the future of content, in particular, how technology impacts social signaling and human psychology. I am an avid researcher, and I will explore any subject related to my interests.</p> 
+		<p>After I got my media and communications degree, I worked as a translator and copywriter in Serbia. At one point, I took part in the organization of hospitality and communication for an international creative tech festival. It got me exposed to the innovative use of technology and gave me a chance to meet tech-savvy creative professionals that challenged my idea of what was possible. The experience shaped my interest in the future of content, in particular, how technology impacts social signaling and human psychology. I am an avid researcher, and I will explore any subject that's not too far off from my level of understanding.</p> 
 
 <header>
  <h3>What can I do for you?</h3>
