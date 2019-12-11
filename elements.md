@@ -38,7 +38,6 @@ image: /assets/images/lookatme.jpg
 </header>
 <p>Copywriter for <a href="http://resonate.io/2018/">resonate.io</a></p>
 
-<
 </div>
 	<div class="6u 12u$(small)">
 		<span class="image center">
